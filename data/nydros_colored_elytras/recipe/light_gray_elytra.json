@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "dyed_elytra",
+  "pattern": [
+    "DMD",
+    "M#M",
+    "DMD"
+  ],
+  "key": {
+    "D": [
+      "minecraft:light_gray_dye"
+    ],
+    "M": [
+      "minecraft:phantom_membrane"
+    ],
+    "#": [
+      "minecraft:elytra"
+    ]
+  },
+  "result": {
+    "components": {
+      "minecraft:item_model": "nydros_colored_elytras:elytra_light_gray",
+      "minecraft:equippable": {
+        "slot": "chest",
+        "equip_sound": "minecraft:item.armor.equip_elytra",
+        "asset_id": "nydros_colored_elytras:elytra_light_gray"
+      }
+    },
+    "count": 1,
+    "id": "minecraft:elytra"
+  }
+}
