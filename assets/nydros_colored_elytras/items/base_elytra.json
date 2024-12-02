@@ -1,0 +1,449 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:broken",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "nydros_colored_elytras:item/base_elytra_broken_quartz_trim",
+            "tints": [
+              {
+                "type": "minecraft:custom_model_data",
+                "index": 0,
+                "default": 15790320
+              },
+              {
+                "type": "minecraft:constant",
+                "value": 15790320
+              }
+            ]
+          },
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "nydros_colored_elytras:item/base_elytra_quartz_trim",
+            "tints": [
+              {
+                "type": "minecraft:custom_model_data",
+                "index": 0,
+                "default": 15790320
+              },
+              {
+                "type": "minecraft:constant",
+                "value": 15790320
+              }
+            ]
+          }
+        },
+        "when": "minecraft:quartz"
+      },
+      {
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:broken",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "nydros_colored_elytras:item/base_elytra_broken_iron_trim",
+            "tints": [
+              {
+                "type": "minecraft:custom_model_data",
+                "index": 0,
+                "default": 15790320
+              },
+              {
+                "type": "minecraft:constant",
+                "value": 15790320
+              }
+            ]
+          },
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "nydros_colored_elytras:item/base_elytra_iron_trim",
+            "tints": [
+              {
+                "type": "minecraft:custom_model_data",
+                "index": 0,
+                "default": 15790320
+              },
+              {
+                "type": "minecraft:constant",
+                "value": 15790320
+              }
+            ]
+          }
+        },
+        "when": "minecraft:iron"
+      },
+      {
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:broken",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "nydros_colored_elytras:item/base_elytra_broken_netherite_trim",
+            "tints": [
+              {
+                "type": "minecraft:custom_model_data",
+                "index": 0,
+                "default": 15790320
+              },
+              {
+                "type": "minecraft:constant",
+                "value": 15790320
+              }
+            ]
+          },
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "nydros_colored_elytras:item/base_elytra_netherite_trim",
+            "tints": [
+              {
+                "type": "minecraft:custom_model_data",
+                "index": 0,
+                "default": 15790320
+              },
+              {
+                "type": "minecraft:constant",
+                "value": 15790320
+              }
+            ]
+          }
+        },
+        "when": "minecraft:netherite"
+      },
+      {
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:broken",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "nydros_colored_elytras:item/base_elytra_broken_redstone_trim",
+            "tints": [
+              {
+                "type": "minecraft:custom_model_data",
+                "index": 0,
+                "default": 15790320
+              },
+              {
+                "type": "minecraft:constant",
+                "value": 15790320
+              }
+            ]
+          },
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "nydros_colored_elytras:item/base_elytra_redstone_trim",
+            "tints": [
+              {
+                "type": "minecraft:custom_model_data",
+                "index": 0,
+                "default": 15790320
+              },
+              {
+                "type": "minecraft:constant",
+                "value": 15790320
+              }
+            ]
+          }
+        },
+        "when": "minecraft:redstone"
+      },
+      {
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:broken",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "nydros_colored_elytras:item/base_elytra_broken_copper_trim",
+            "tints": [
+              {
+                "type": "minecraft:custom_model_data",
+                "index": 0,
+                "default": 15790320
+              },
+              {
+                "type": "minecraft:constant",
+                "value": 15790320
+              }
+            ]
+          },
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "nydros_colored_elytras:item/base_elytra_copper_trim",
+            "tints": [
+              {
+                "type": "minecraft:custom_model_data",
+                "index": 0,
+                "default": 15790320
+              },
+              {
+                "type": "minecraft:constant",
+                "value": 15790320
+              }
+            ]
+          }
+        },
+        "when": "minecraft:copper"
+      },
+      {
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:broken",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "nydros_colored_elytras:item/base_elytra_broken_gold_trim",
+            "tints": [
+              {
+                "type": "minecraft:custom_model_data",
+                "index": 0,
+                "default": 15790320
+              },
+              {
+                "type": "minecraft:constant",
+                "value": 15790320
+              }
+            ]
+          },
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "nydros_colored_elytras:item/base_elytra_gold_trim",
+            "tints": [
+              {
+                "type": "minecraft:custom_model_data",
+                "index": 0,
+                "default": 15790320
+              },
+              {
+                "type": "minecraft:constant",
+                "value": 15790320
+              }
+            ]
+          }
+        },
+        "when": "minecraft:gold"
+      },
+      {
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:broken",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "nydros_colored_elytras:item/base_elytra_broken_emerald_trim",
+            "tints": [
+              {
+                "type": "minecraft:custom_model_data",
+                "index": 0,
+                "default": 15790320
+              },
+              {
+                "type": "minecraft:constant",
+                "value": 15790320
+              }
+            ]
+          },
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "nydros_colored_elytras:item/base_elytra_emerald_trim",
+            "tints": [
+              {
+                "type": "minecraft:custom_model_data",
+                "index": 0,
+                "default": 15790320
+              },
+              {
+                "type": "minecraft:constant",
+                "value": 15790320
+              }
+            ]
+          }
+        },
+        "when": "minecraft:emerald"
+      },
+      {
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:broken",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "nydros_colored_elytras:item/base_elytra_broken_diamond_trim",
+            "tints": [
+              {
+                "type": "minecraft:custom_model_data",
+                "index": 0,
+                "default": 15790320
+              },
+              {
+                "type": "minecraft:constant",
+                "value": 15790320
+              }
+            ]
+          },
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "nydros_colored_elytras:item/base_elytra_diamond_trim",
+            "tints": [
+              {
+                "type": "minecraft:custom_model_data",
+                "index": 0,
+                "default": 15790320
+              },
+              {
+                "type": "minecraft:constant",
+                "value": 15790320
+              }
+            ]
+          }
+        },
+        "when": "minecraft:diamond"
+      },
+      {
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:broken",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "nydros_colored_elytras:item/base_elytra_broken_lapis_trim",
+            "tints": [
+              {
+                "type": "minecraft:custom_model_data",
+                "index": 0,
+                "default": 15790320
+              },
+              {
+                "type": "minecraft:constant",
+                "value": 15790320
+              }
+            ]
+          },
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "nydros_colored_elytras:item/base_elytra_lapis_trim",
+            "tints": [
+              {
+                "type": "minecraft:custom_model_data",
+                "index": 0,
+                "default": 15790320
+              },
+              {
+                "type": "minecraft:constant",
+                "value": 15790320
+              }
+            ]
+          }
+        },
+        "when": "minecraft:lapis"
+      },
+      {
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:broken",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "nydros_colored_elytras:item/base_elytra_broken_amethyst_trim",
+            "tints": [
+              {
+                "type": "minecraft:custom_model_data",
+                "index": 0,
+                "default": 15790320
+              },
+              {
+                "type": "minecraft:constant",
+                "value": 15790320
+              }
+            ]
+          },
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "nydros_colored_elytras:item/base_elytra_amethyst_trim",
+            "tints": [
+              {
+                "type": "minecraft:custom_model_data",
+                "index": 0,
+                "default": 15790320
+              },
+              {
+                "type": "minecraft:constant",
+                "value": 15790320
+              }
+            ]
+          }
+        },
+        "when": "minecraft:amethyst"
+      },
+      {
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:broken",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "nydros_colored_elytras:item/base_elytra_broken_resin_trim",
+            "tints": [
+              {
+                "type": "minecraft:custom_model_data",
+                "index": 0,
+                "default": 15790320
+              },
+              {
+                "type": "minecraft:constant",
+                "value": 15790320
+              }
+            ]
+          },
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "nydros_colored_elytras:item/base_elytra_resin_trim",
+            "tints": [
+              {
+                "type": "minecraft:custom_model_data",
+                "index": 0,
+                "default": 15790320
+              },
+              {
+                "type": "minecraft:constant",
+                "value": 15790320
+              }
+            ]
+          }
+        },
+        "when": "minecraft:resin"
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:condition",
+      "property": "minecraft:broken",
+      "on_true": {
+        "type": "minecraft:model",
+        "model": "nydros_colored_elytras:item/base_elytra_broken",
+        "tints": [
+              {
+                "type": "minecraft:custom_model_data",
+                "index": 0,
+                "default": 15790320
+              },
+              {
+                "type": "minecraft:constant",
+                "value": 15790320
+              }
+            ]
+      },
+      "on_false": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/elytra",
+        "tints": [
+              {
+                "type": "minecraft:custom_model_data",
+                "index": 0,
+                "default": 15790320
+              },
+              {
+                "type": "minecraft:constant",
+                "value": 15790320
+              }
+            ]
+      }
+    },
+    "property": "minecraft:trim_material"
+  }
+}

@@ -3,8 +3,8 @@
         {
             "type": "paletted_permutations",
             "textures": [
-                "elytra_trims:trims/items/elytra_trim",
-                "elytra_trims:trims/items/elytra_broken_trim"
+                "nydros_colored_elytras:trims/items/elytra_trim",
+                "nydros_colored_elytras:trims/items/elytra_broken_trim"
             ],
             "palette_key": "trims/color_palettes/trim_palette",
             "permutations": {

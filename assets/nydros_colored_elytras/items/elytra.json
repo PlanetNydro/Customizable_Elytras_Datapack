@@ -8,11 +8,11 @@
           "property": "minecraft:broken",
           "on_true": {
             "type": "minecraft:model",
-            "model": "elytra_trims:item/elytra_broken_quartz_trim"
+            "model": "nydros_colored_elytras:item/elytra_broken_quartz_trim"
           },
           "on_false": {
             "type": "minecraft:model",
-            "model": "elytra_trims:item/elytra_quartz_trim"
+            "model": "nydros_colored_elytras:item/elytra_quartz_trim"
           }
         },
         "when": "minecraft:quartz"
@@ -23,11 +23,11 @@
           "property": "minecraft:broken",
           "on_true": {
             "type": "minecraft:model",
-            "model": "elytra_trims:item/elytra_broken_iron_trim"
+            "model": "nydros_colored_elytras:item/elytra_broken_iron_trim"
           },
           "on_false": {
             "type": "minecraft:model",
-            "model": "elytra_trims:item/elytra_iron_trim"
+            "model": "nydros_colored_elytras:item/elytra_iron_trim"
           }
         },
         "when": "minecraft:iron"
@@ -38,11 +38,11 @@
           "property": "minecraft:broken",
           "on_true": {
             "type": "minecraft:model",
-            "model": "elytra_trims:item/elytra_broken_netherite_trim"
+            "model": "nydros_colored_elytras:item/elytra_broken_netherite_trim"
           },
           "on_false": {
             "type": "minecraft:model",
-            "model": "elytra_trims:item/elytra_netherite_trim"
+            "model": "nydros_colored_elytras:item/elytra_netherite_trim"
           }
         },
         "when": "minecraft:netherite"
@@ -53,11 +53,11 @@
           "property": "minecraft:broken",
           "on_true": {
             "type": "minecraft:model",
-            "model": "elytra_trims:item/elytra_broken_redstone_trim"
+            "model": "nydros_colored_elytras:item/elytra_broken_redstone_trim"
           },
           "on_false": {
             "type": "minecraft:model",
-            "model": "elytra_trims:item/elytra_redstone_trim"
+            "model": "nydros_colored_elytras:item/elytra_redstone_trim"
           }
         },
         "when": "minecraft:redstone"
@@ -68,11 +68,11 @@
           "property": "minecraft:broken",
           "on_true": {
             "type": "minecraft:model",
-            "model": "elytra_trims:item/elytra_broken_copper_trim"
+            "model": "nydros_colored_elytras:item/elytra_broken_copper_trim"
           },
           "on_false": {
             "type": "minecraft:model",
-            "model": "elytra_trims:item/elytra_copper_trim"
+            "model": "nydros_colored_elytras:item/elytra_copper_trim"
           }
         },
         "when": "minecraft:copper"
@@ -83,11 +83,11 @@
           "property": "minecraft:broken",
           "on_true": {
             "type": "minecraft:model",
-            "model": "elytra_trims:item/elytra_broken_gold_trim"
+            "model": "nydros_colored_elytras:item/elytra_broken_gold_trim"
           },
           "on_false": {
             "type": "minecraft:model",
-            "model": "elytra_trims:item/elytra_gold_trim"
+            "model": "nydros_colored_elytras:item/elytra_gold_trim"
           }
         },
         "when": "minecraft:gold"
@@ -98,11 +98,11 @@
           "property": "minecraft:broken",
           "on_true": {
             "type": "minecraft:model",
-            "model": "elytra_trims:item/elytra_broken_emerald_trim"
+            "model": "nydros_colored_elytras:item/elytra_broken_emerald_trim"
           },
           "on_false": {
             "type": "minecraft:model",
-            "model": "elytra_trims:item/elytra_emerald_trim"
+            "model": "nydros_colored_elytras:item/elytra_emerald_trim"
           }
         },
         "when": "minecraft:emerald"
@@ -113,11 +113,11 @@
           "property": "minecraft:broken",
           "on_true": {
             "type": "minecraft:model",
-            "model": "elytra_trims:item/elytra_broken_diamond_trim"
+            "model": "nydros_colored_elytras:item/elytra_broken_diamond_trim"
           },
           "on_false": {
             "type": "minecraft:model",
-            "model": "elytra_trims:item/elytra_diamond_trim"
+            "model": "nydros_colored_elytras:item/elytra_diamond_trim"
           }
         },
         "when": "minecraft:diamond"
@@ -128,11 +128,11 @@
           "property": "minecraft:broken",
           "on_true": {
             "type": "minecraft:model",
-            "model": "elytra_trims:item/elytra_broken_lapis_trim"
+            "model": "nydros_colored_elytras:item/elytra_broken_lapis_trim"
           },
           "on_false": {
             "type": "minecraft:model",
-            "model": "elytra_trims:item/elytra_lapis_trim"
+            "model": "nydros_colored_elytras:item/elytra_lapis_trim"
           }
         },
         "when": "minecraft:lapis"
@@ -143,11 +143,11 @@
           "property": "minecraft:broken",
           "on_true": {
             "type": "minecraft:model",
-            "model": "elytra_trims:item/elytra_broken_amethyst_trim"
+            "model": "nydros_colored_elytras:item/elytra_broken_amethyst_trim"
           },
           "on_false": {
             "type": "minecraft:model",
-            "model": "elytra_trims:item/elytra_amethyst_trim"
+            "model": "nydros_colored_elytras:item/elytra_amethyst_trim"
           }
         },
         "when": "minecraft:amethyst"
@@ -158,11 +158,11 @@
           "property": "minecraft:broken",
           "on_true": {
             "type": "minecraft:model",
-            "model": "elytra_trims:item/elytra_broken_resin_trim"
+            "model": "nydros_colored_elytras:item/elytra_broken_resin_trim"
           },
           "on_false": {
             "type": "minecraft:model",
-            "model": "elytra_trims:item/elytra_resin_trim"
+            "model": "nydros_colored_elytras:item/elytra_resin_trim"
           }
         },
         "when": "minecraft:resin"
