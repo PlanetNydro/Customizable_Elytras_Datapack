@@ -35,7 +35,6 @@
       "nydros_colored_elytras:red_elytra",
       "nydros_colored_elytras:white_elytra",
       "nydros_colored_elytras:yellow_elytra",
-      "nydros_colored_elytras:locked_elytra",
       "nydros_colored_elytras:clear_elytra",
 
       "nydros_colored_elytras:black_elytra_smithing",
@@ -54,7 +53,6 @@
       "nydros_colored_elytras:red_elytra_smithing",
       "nydros_colored_elytras:white_elytra_smithing",
       "nydros_colored_elytras:yellow_elytra_smithing",
-      "nydros_colored_elytras:locked_elytra_smithing",
       "nydros_colored_elytras:clear_elytra_smithing"
     ]
   }
