@@ -5,6 +5,9 @@ This data pack adds the ability to dye elytras, as well as custom armor trim tex
 
 Currently works with version 1.21.4
 
+
+[PlanetMinecraft Page](https://www.planetminecraft.com/data-pack/customizable-elytras-1-21-4/)
+
 ![All Elytra Sprites](https://github.com/user-attachments/assets/a98efe2a-51df-4432-b041-aa7be1a8d391)
 ![colored_elytras](https://github.com/user-attachments/assets/80fa76e6-f748-47ea-afed-a5eba10d2406) |  ![elytra trims](https://github.com/user-attachments/assets/bf028037-84dd-48b1-b226-8b2153bdad5f)
 :-------------------------:|:-------------------------:
