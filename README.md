@@ -1,5 +1,5 @@
-# Nydro's Customizable Elytras Data Pack
-Nydro's Customizable Elytras is a data pack that adds more options for customizing your elytra.
+# Customizable Elytras Data Pack
+Customizable Elytras is a data pack that adds more options for customizing your elytra.
 
 This data pack adds the ability to dye elytras, as well as custom armor trim textures that you can apply to your elytra. These customizations can be combined however you like to create thousands of new possibilities!
 
