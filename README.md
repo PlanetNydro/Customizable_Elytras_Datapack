@@ -3,7 +3,7 @@ Customizable Elytras is a data pack that adds more options for customizing your 
 
 This data pack adds the ability to dye elytras, as well as custom armor trim textures that you can apply to your elytra. These customizations can be combined however you like to create thousands of new possibilities!
 
-Currently works with version 1.21.4
+This branch works with version 1.21.3
 
 
 [PlanetMinecraft Page](https://www.planetminecraft.com/data-pack/customizable-elytras-1-21-4/)

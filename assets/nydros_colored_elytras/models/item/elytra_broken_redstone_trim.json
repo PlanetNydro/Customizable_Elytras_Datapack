@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/elytra_broken",
+    "layer0": "minecraft:item/broken_elytra",
     "layer1": "nydros_colored_elytras:trims/items/elytra_broken_trim_redstone"
   }
 }

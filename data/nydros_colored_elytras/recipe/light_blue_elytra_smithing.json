@@ -8,7 +8,7 @@
       "minecraft:equippable": {
         "slot": "chest",
         "equip_sound": "minecraft:item.armor.equip_elytra",
-        "asset_id": "nydros_colored_elytras:elytra_light_blue"
+        "model": "nydros_colored_elytras:elytra_light_blue"
       }
     },
     "count": 1,

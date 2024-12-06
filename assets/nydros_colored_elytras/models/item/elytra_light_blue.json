@@ -1,5 +1,142 @@
 {
   "parent": "minecraft:item/generated",
+  "overrides": [
+    {
+      "predicate": {
+        "broken": 1
+      },
+      "model": "nydros_colored_elytras:item/elytra_light_blue_broken"
+    },
+    {
+      "model": "nydros_colored_elytras:item/elytra_light_blue_quartz_trim",
+      "predicate": {
+        "trim_type": 0.1
+      }
+    },
+    {
+      "model": "nydros_colored_elytras:item/elytra_light_blue_broken_quartz_trim",
+      "predicate": {
+        "trim_type": 0.1,
+        "broken": 1
+      }
+    },{
+      "model": "nydros_colored_elytras:item/elytra_light_blue_iron_trim",
+      "predicate": {
+        "trim_type": 0.2
+      }
+    },
+    {
+      "model": "nydros_colored_elytras:item/elytra_light_blue_broken_iron_trim",
+      "predicate": {
+        "trim_type": 0.2,
+        "broken": 1
+      }
+    },
+    {
+      "model": "nydros_colored_elytras:item/elytra_light_blue_netherite_trim",
+      "predicate": {
+        "trim_type": 0.3
+      }
+    },
+    {
+      "model": "nydros_colored_elytras:item/elytra_light_blue_broken_netherite_trim",
+      "predicate": {
+        "trim_type": 0.3,
+        "broken": 1
+      }
+    },
+    {
+      "model": "nydros_colored_elytras:item/elytra_light_blue_redstone_trim",
+      "predicate": {
+        "trim_type": 0.4
+      }
+    },
+    {
+      "model": "nydros_colored_elytras:item/elytra_light_blue_broken_redstone_trim",
+      "predicate": {
+        "trim_type": 0.4,
+        "broken": 1
+      }
+    },
+    {
+      "model": "nydros_colored_elytras:item/elytra_light_blue_copper_trim",
+      "predicate": {
+        "trim_type": 0.5
+      }
+    },
+    {
+      "model": "nydros_colored_elytras:item/elytra_light_blue_broken_copper_trim",
+      "predicate": {
+        "trim_type": 0.5,
+        "broken": 1
+      }
+    },
+    {
+      "model": "nydros_colored_elytras:item/elytra_light_blue_gold_trim",
+      "predicate": {
+        "trim_type": 0.6
+      }
+    },
+    {
+      "model": "nydros_colored_elytras:item/elytra_light_blue_broken_gold_trim",
+      "predicate": {
+        "trim_type": 0.6,
+        "broken": 1
+      }
+    },
+    {
+      "model": "nydros_colored_elytras:item/elytra_light_blue_emerald_trim",
+      "predicate": {
+        "trim_type": 0.7
+      }
+    },
+    {
+      "model": "nydros_colored_elytras:item/elytra_light_blue_broken_emerald_trim",
+      "predicate": {
+        "trim_type": 0.7,
+        "broken": 1
+      }
+    },
+    {
+      "model": "nydros_colored_elytras:item/elytra_light_blue_diamond_trim",
+      "predicate": {
+        "trim_type": 0.8
+      }
+    },
+    {
+      "model": "nydros_colored_elytras:item/elytra_light_blue_broken_diamond_trim",
+      "predicate": {
+        "trim_type": 0.8,
+        "broken": 1
+      }
+    },
+    {
+      "model": "nydros_colored_elytras:item/elytra_light_blue_lapis_trim",
+      "predicate": {
+        "trim_type": 0.9
+      }
+    },
+    {
+      "model": "nydros_colored_elytras:item/elytra_light_blue_broken_lapis_trim",
+      "predicate": {
+        "trim_type": 0.9,
+        "broken": 1
+      }
+    },
+    {
+      "model": "nydros_colored_elytras:item/elytra_light_blue_amethyst_trim",
+      "predicate": {
+        "trim_type": 1
+      }
+    },
+    {
+      "model": "nydros_colored_elytras:item/elytra_light_blue_broken_amethyst_trim",
+      "predicate": {
+        "trim_type": 1,
+        "broken": 1
+      }
+    }
+  ],
   "textures": {
     "layer0": "nydros_colored_elytras:item/elytra_light_blue"
   }

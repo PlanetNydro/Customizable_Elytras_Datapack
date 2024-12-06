@@ -24,7 +24,7 @@
       "minecraft:equippable": {
         "slot": "chest",
         "equip_sound": "minecraft:item.armor.equip_elytra",
-        "asset_id": "nydros_colored_elytras:elytra_lime"
+        "model": "nydros_colored_elytras:elytra_lime"
       }
     },
     "count": 1,

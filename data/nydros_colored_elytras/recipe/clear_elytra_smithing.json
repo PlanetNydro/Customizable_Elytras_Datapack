@@ -7,7 +7,7 @@
       "minecraft:equippable": {
         "slot": "chest",
         "equip_sound": "minecraft:item.armor.equip_elytra",
-        "asset_id": "minecraft:elytra"
+        "model": "minecraft:elytra"
       }
     },
     "count": 1,
