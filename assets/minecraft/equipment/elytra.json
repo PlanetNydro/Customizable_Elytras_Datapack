@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "minecraft:elytra",
+        
+        "use_player_texture": true
+      },
+      {
+        "dyeable": {
+        },
+        "texture": "nydros_colored_elytras:dyed_elytra",
+        
+        "use_player_texture": false
+      }
+      
+    ]
+  }
+}

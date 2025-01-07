@@ -1,0 +1,14 @@
+{
+  "function": "minecraft:set_components",
+  "components": {
+    "minecraft:equippable": {
+      "slot": "chest",
+      "equip_sound": "minecraft:item.armor.equip_elytra",
+      "asset_id": "minecraft:elytra"
+    },
+    "minecraft:item_model": "minecraft:elytra",
+    "minecraft:dyed_color": {
+      "rgb": 8158317
+    }
+  }
+}
