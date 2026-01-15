@@ -1,16 +1,16 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:poisonous_potato",
+  "addition": "minecraft:phantom_membrane",
   "base": "minecraft:elytra",
   "result": {
     "components": {
-      "minecraft:item_model": "nydros_colored_elytras:poisonous_polytra",
+      "minecraft:item_model": "nydros_colored_elytras:wings_phantom",
       "minecraft:equippable": {
         "slot": "chest",
         "equip_sound": "minecraft:item.armor.equip_elytra",
-        "asset_id": "nydros_colored_elytras:poisonous_polytra"
+        "asset_id": "nydros_colored_elytras:wings_phantom"
       },
-      "minecraft:item_name": "Poisonous Polytra",
+      "minecraft:item_name": "Phantom Wings",
       "!minecraft:dyed_color": {
       }
     },

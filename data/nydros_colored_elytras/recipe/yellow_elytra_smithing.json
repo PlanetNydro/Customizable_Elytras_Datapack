@@ -1,18 +1,17 @@
 {
   "type": "minecraft:smithing_transform",
-  "addition": "minecraft:poisonous_potato",
+  "addition": "minecraft:yellow_dye",
   "base": "minecraft:elytra",
   "result": {
     "components": {
-      "minecraft:item_model": "nydros_colored_elytras:poisonous_polytra",
+      "minecraft:item_model": "nydros_colored_elytras:elytra_yellow",
       "minecraft:equippable": {
         "slot": "chest",
         "equip_sound": "minecraft:item.armor.equip_elytra",
-        "asset_id": "nydros_colored_elytras:poisonous_polytra"
+        "asset_id": "nydros_colored_elytras:elytra_yellow"
       },
-      "minecraft:item_name": "Poisonous Polytra",
-      "!minecraft:dyed_color": {
-      }
+      "!minecraft:dyed_color": {},
+      "minecraft:item_name": "Elytra"
     },
     "count": 1,
     "id": "minecraft:elytra"

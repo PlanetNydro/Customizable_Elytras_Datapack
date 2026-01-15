@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "nydros_colored_elytras:wings_bat",
+        "use_player_texture": false
+      }
+    ]
+  }
+}

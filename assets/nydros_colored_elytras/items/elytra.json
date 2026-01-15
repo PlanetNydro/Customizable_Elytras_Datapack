@@ -215,7 +215,7 @@
         ],
         "fallback": {
           "type": "minecraft:empty",
-          "model": "minecraft:item/elytra"
+          "model": "minecraft:block/dark_oak_door_bottom_left_open"
         }
       }
     ]

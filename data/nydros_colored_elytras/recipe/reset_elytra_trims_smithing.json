@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:clock",
+  "base": "minecraft:elytra",
+  "result": {
+    "components": {
+        "!minecraft:trim": {}
+    },
+    "count": 1,
+    "id": "minecraft:elytra"
+  }
+}

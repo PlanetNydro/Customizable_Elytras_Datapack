@@ -4,43 +4,14 @@
     "models": [
       {
         "type": "minecraft:condition",
-        "property": "minecraft:has_component",
-        "component": "minecraft:dyed_color",
+        "property": "minecraft:broken",
         "on_true": {
-          "type": "minecraft:condition",
-          "property": "minecraft:broken",
-          "on_true": {
-            "type": "minecraft:model",
-            "model": "nydros_colored_elytras:item/elytra_dyed_broken",
-            "tints": [
-              {
-                "type": "minecraft:dye",
-                "default": 14935011
-              }
-            ]
-          },
-          "on_false": {
-            "type": "minecraft:model",
-            "model": "nydros_colored_elytras:item/elytra_dyed",
-            "tints": [
-              {
-                "type": "minecraft:dye",
-                "default": 16777215
-              }
-            ]
-          }
+          "type": "minecraft:model",
+          "model": "nydros_colored_elytras:item/agnes_race_broken"
         },
         "on_false": {
-          "type": "minecraft:condition",
-          "property": "minecraft:broken",
-          "on_true": {
-            "type": "minecraft:model",
-            "model": "minecraft:item/elytra_broken"
-          },
-          "on_false": {
-            "type": "minecraft:model",
-            "model": "minecraft:item/elytra"
-          }
+          "type": "minecraft:model",
+          "model": "nydros_colored_elytras:item/agnes_race"
         }
       },
       {
@@ -214,8 +185,7 @@
           }
         ],
         "fallback": {
-          "type": "minecraft:empty",
-          "model": "minecraft:item/elytra"
+          "type": "minecraft:empty"
         }
       }
     ]
