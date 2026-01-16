@@ -1,4 +1,4 @@
-# Customizable Elytras Data Pack
+# Customizable Elytras Datapack
 ### **RESOURCE PACK IS REQUIRED**
 
 Have you ever wanted to have a little more customization options for your elytra, but found capes just aren't quite enough?
