@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:elytra",
+  "result": {
+    "components": {
+      "minecraft:item_model": "minecraft:elytra",
+      "minecraft:equippable": {
+        "slot": "chest",
+        "equip_sound": "minecraft:item.armor.equip_elytra",
+        "asset_id": "minecraft:elytra"
+      },
+      "minecraft:item_name": "Elytra"
+    },
+    "count": 1,
+    "id": "minecraft:elytra"
+  }
+}

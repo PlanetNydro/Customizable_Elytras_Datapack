@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:sugar",
+  "base": "minecraft:elytra",
+  "result": {
+    "components": {
+      "minecraft:item_model": "nydros_colored_elytras:agnes_race",
+      "minecraft:equippable": {
+        "slot": "chest",
+        "equip_sound": "minecraft:item.armor.equip_elytra",
+        "asset_id": "nydros_colored_elytras:agnes_race"
+      },
+      "minecraft:item_name": "Elytra",
+      "!minecraft:dyed_color": {
+      }
+    },
+    "count": 1,
+    "id": "minecraft:elytra"
+  }
+}

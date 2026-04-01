@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "nydros_colored_elytras:item/elytra_light_gray_broken",
-    "layer1": "nydros_colored_elytras:trims/items/elytra_broken_trim_quartz"
-  }
-}

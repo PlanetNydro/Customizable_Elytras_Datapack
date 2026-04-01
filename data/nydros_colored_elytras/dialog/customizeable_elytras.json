@@ -1,0 +1,97 @@
+{
+  "type": "minecraft:notice",
+  "title": [
+    {
+      "atlas": "minecraft:items",
+      "sprite": "nydros_colored_elytras:item/elytra_red"
+    },
+    " ",
+    {
+      "text": "Customizable Elytra"
+    }
+  ],
+  "external_title": [
+    {
+      "atlas": "minecraft:items",
+      "sprite": "nydros_colored_elytras:item/elytra_red"
+    },
+    " ",
+    {
+      "text": "Custom Elytra"
+    }
+  ],
+  "body": [
+    {
+      "type": "minecraft:item",
+      "item": {
+        "id": "minecraft:player_head",
+        "components": {
+          "minecraft:profile": {
+            "name": "PlanetNydro"
+          }
+        }
+      },
+      "description": {
+        "text": "Datapack created by PlanetNydro"
+      },
+      "show_tooltip": false
+    },
+    {
+      "type": "minecraft:plain_message",
+      "contents": {
+        "text": "Customizable Elytra adds several new ways to personalize your wings."
+      }
+    },
+    {
+      "type": "minecraft:item",
+      "item": {
+        "id": "minecraft:elytra",
+        "components": {
+          "minecraft:dyed_color": 11546150
+        }
+      },
+      "description": {
+        "text": "Dying: Elytra can now be dyed like leather armor. Dye can be washed off in a cauldron."
+      },
+      "show_tooltip": false
+    },
+    {
+      "type": "minecraft:item",
+      "item": {
+        "id": "minecraft:elytra",
+        "components": {
+          "minecraft:trim": {
+            "material": "minecraft:redstone",
+            "pattern": "minecraft:bolt"
+          }
+        }
+      },
+      "description": {
+        "text": "Armor Trims: Elytra can now support trims like other types of armor. Placing an elytra in a smithing table with a clock will remove any armor trims."
+      },
+      "show_tooltip": false
+    },
+    {
+      "type": "minecraft:item",
+      "item": {
+        "id": "elytra",
+        "components": {
+          "minecraft:item_model": "nydros_colored_elytras:poisonous_polytra"
+        }
+      },
+      "description": {
+        "text": "Elytra Skins: By placing an elytra in a smithing table with one of a few items, it can gain a new appearance. This overwrites the dye color. Placing it in a smithing table on its own will reset its skin."
+      },
+      "show_tooltip": false
+    }
+  ],
+  "inputs": [],
+  "can_close_with_escape": true,
+  "pause": true,
+  "action": {
+    "label": {
+      "translate": "gui.done",
+      "fallback": "Done"
+    }
+  }
+}

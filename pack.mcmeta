@@ -1,6 +1,13 @@
 {
   "pack": {
-    "pack_format": 61,
-    "description": "Adds colored elytras. Made by PlanetNydro"
+    "description": [
+      "Adds elytra colors and trims ",
+      "Made by PlanetNydro"
+    ],
+    "max_format": 101.1,
+    "min_format": [
+      94,
+      1
+    ]
   }
 }

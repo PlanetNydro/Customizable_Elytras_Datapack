@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:iron_sword",
+  "base": "minecraft:elytra",
+  "result": {
+    "components": {
+      "minecraft:item_model": "nydros_colored_elytras:wings_vex",
+      "minecraft:equippable": {
+        "slot": "chest",
+        "equip_sound": "minecraft:item.armor.equip_elytra",
+        "asset_id": "nydros_colored_elytras:wings_vex"
+      },
+      "minecraft:item_name": "Vex Wings",
+      "!minecraft:dyed_color": {
+      }
+    },
+    "count": 1,
+    "id": "minecraft:elytra"
+  }
+}
