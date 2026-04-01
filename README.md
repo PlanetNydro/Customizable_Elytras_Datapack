@@ -9,11 +9,11 @@ By placing your elytra in a smithing table with one of a few specific items, you
 
 Due to the leather dying system being added since the original version of this datapack, the original 16 dyed elytra colors have been turned into legacy skins. They should work exactly as they did before, albeit without the requirement for phantom membrane to recolor them, providing a more vibrant option for those who liked my original textures.
 
-Since elytras don't like caldrons, you can remove their dye or custom skins by placing them in a smithing table. If you add in a clock, you can also remove armor trims from them.
+You can remove their custom skins by placing them in a smithing table. If you add in a clock, you can also remove armor trims from them. Dye can be washed off in a cauldron.
 
 The Race Suit skin comes from the Eerie Mojang Office Party event server, created by Blockworks. I simply modified it to fit onto the java elytra model. Every other texture is taken from some official version of java edition in some shape or form.
 
-Currently works with version 1.21.11
+Currently works with version 26.1
 
 [PlanetMinecraft Page](https://www.planetminecraft.com/data-pack/customizable-elytras-1-21-4/)
 
