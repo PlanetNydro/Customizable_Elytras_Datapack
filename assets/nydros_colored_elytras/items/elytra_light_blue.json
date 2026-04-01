@@ -185,8 +185,8 @@
           }
         ],
         "fallback": {
-          "type": "minecraft:empty",
-          "model": "minecraft:block/dark_oak_door_bottom_left_open"
+          "type": "minecraft:model",
+          "model": "nydros_colored_elytras:item/elytra_light_blue"
         }
       }
     ]

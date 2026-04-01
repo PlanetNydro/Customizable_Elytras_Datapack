@@ -9,7 +9,6 @@
         "equip_sound": "minecraft:item.armor.equip_elytra",
         "asset_id": "minecraft:elytra"
       },
-      "!minecraft:dyed_color": {},
       "minecraft:item_name": "Elytra"
     },
     "count": 1,
