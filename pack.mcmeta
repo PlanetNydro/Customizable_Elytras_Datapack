@@ -4,10 +4,8 @@
       "Adds elytra colors and trims ",
       "Made by PlanetNydro"
     ],
-    "max_format": 101.1,
-    "min_format": [
-      94,
-      1
-    ]
+    "pack_format": 101.1,
+    "min_format": 101.1,
+    "max_format": 101.1
   }
 }
